@@ -54,3 +54,27 @@ The analysis includes:
 - Average marks by subject
 - Top 5 student performance
 - Attendance vs. average marks
+
+- ## 📌 Results
+
+### Subject Performance
+
+| Subject | Average Score |
+|---|---:|
+| English | 84.5 |
+| Python | 84.4 |
+| Mathematics | 84.0 |
+
+### 🏆 Top Performers
+
+| Student | Average |
+|---|---:|
+| Mehak | 93.33 |
+| Neha | 93.33 |
+| Simran | 90.67 |
+
+### 📊 Attendance & Performance
+
+The correlation between attendance and average marks was **0.96**, indicating a strong positive relationship in this sample.
+
+> Note: The dataset contains only 10 students, so this correlation should not be interpreted as proof that attendance causes better academic performance.
