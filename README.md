@@ -38,3 +38,19 @@ The project calculates:
 ## 🎯 Learning Goals
 
 This project was created to practice basic data analysis concepts using Python and Pandas.
+
+## 🔍 Key Insights
+
+- English had the highest average score at **84.5**.
+- Python had an average score of **84.4**.
+- Mathematics had an average score of **84.0**.
+- Mehak and Neha had the highest overall average of **93.33**.
+- Attendance and average marks showed a strong positive correlation of **0.96** in this sample.
+- The dataset contains only 10 students, so these findings should be treated as an educational analysis rather than a general conclusion.
+
+## 📊 Visualizations
+
+The analysis includes:
+- Average marks by subject
+- Top 5 student performance
+- Attendance vs. average marks
